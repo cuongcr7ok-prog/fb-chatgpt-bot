@@ -1,0 +1,14 @@
+{
+  "name": "fb-chatgpt-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "openai": "^4.56.0"
+  }
+}
